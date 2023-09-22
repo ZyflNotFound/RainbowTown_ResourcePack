@@ -1,0 +1,40 @@
+{
+	"credit": "Made by crazyfl with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "item/grappling_hook"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 90, 45],
+			"translation": [0, 3.5, -1],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, -90, -45],
+			"translation": [0, 3.5, -1],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-45, 90, 0],
+			"translation": [1.13, 4.5, 0.5],
+			"scale": [0.68, 0.68, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [45, -90, 90],
+			"translation": [1.13, 4.5, 0.5],
+			"scale": [0.68, 0.68, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 13, 7]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}
